@@ -19,7 +19,7 @@ authenticator = stauth.Authenticate(
     config['cookie']['expiry_days'],
     config['preauthorized']
 )
-name, authentication_status, username = authenticator.login()
+name, authentication_status, username = authenticator.login('Logout', 'main')
 if st.session_state["authentication_status"]:
     authenticator.logout('Logout', 'main')
     # set logo
