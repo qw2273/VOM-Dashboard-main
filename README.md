@@ -56,6 +56,6 @@ The repository is organized as follows:
 
 ## Contact
 
-If you have any questions, suggestions, or issues, please feel free to contact me at qiqi_wu@whirlpool.com
+If you have any questions, suggestions, or issues, please feel free to contact me at qqwu23@gmail.com
 
 Happy data visualizing! 📊🚀
