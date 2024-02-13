@@ -3,7 +3,6 @@ Interactive dashboard to view Voice of Membership Annual Survey Results
 
 ![Dashboard Screenshot](./img/dashboard_screenshot_2.jpg)
 ![Dashboard Screenshot](./img/dashboard_screenshot_1.jpg)
-![Dashboard Screenshot](./img/dashboard_screenshot_3.jpg)
 
 
 
