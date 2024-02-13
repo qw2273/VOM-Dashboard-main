@@ -6,7 +6,9 @@ Interactive dashboard to view Voice of Membership Annual Survey Results
 ![Dashboard Screenshot](./img/dashboard_screenshot_3.jpg)
 
 
-https://github.com/qw2273/VOM-Dashboard-main/assets/47950186/07d3691a-5120-4b06-86a3-d4ced513be26
+
+https://github.com/qw2273/VOM-Dashboard-main/assets/47950186/0958ba02-ffa6-460e-8660-6316e3435a48
+
 
 
 Welcome to the VOM-Dashboard Repository! This repository contains all the code and resources you need to create a dynamic and interactive dashboard for your data visualization needs. Whether you're a data analyst, business professional, or developer, this dashboard will help you make sense of your data and present it in a compelling and informative way.
