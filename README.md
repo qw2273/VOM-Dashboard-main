@@ -25,7 +25,7 @@ To get started with this interactive dashboard, follow these steps:
 1. **Clone the Repository**: Clone this repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/wuq2-whirlpool/VOM-Dashboard.git
+   git clone https://github.com/wuq2-whirlpool/VOM-Dashboard.git 
    ```
 
 2. **Install Dependencies**: Make sure you have the necessary dependencies installed. Check the `requirements.txt` file for Python packages and any frontend dependencies specified.
@@ -36,8 +36,7 @@ To get started with this interactive dashboard, follow these steps:
    streamlit run code/Hello.py
    ```
 
-6. **Access the Dashboard**: Open your web browser and navigate to `https://whirlpool-vom-dashboard.streamlit.app/
-`to access the dashboard. 
+6. **Access the Dashboard**: Open your web browser and navigate to `https://vom-interactive-dashboard.streamlit.app`to access the dashboard. 
 
 ## Folder Structure
 
