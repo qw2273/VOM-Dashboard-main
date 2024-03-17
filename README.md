@@ -1,7 +1,6 @@
 # VOM-Dashboard
 Link: https://vom-interactive-dashboard.streamlit.app/
-username: 
-password: 
+username: wwn; password: vom
 
 Interactive dashboard to view Voice of Membership Annual Survey Results
 
